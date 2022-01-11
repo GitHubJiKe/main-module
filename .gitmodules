@@ -1,0 +1,3 @@
+[submodule "utils/sub-module"]
+	path = utils/sub-module
+	url = git@github.com:GitHubJiKe/sub-module.git
