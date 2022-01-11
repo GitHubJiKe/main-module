@@ -1,3 +1,4 @@
 const subModule = require("../utils/sub-module");
 
-console.log(subModule(1, 2));
+
+subModule.log(subModule.add(1, 2));
